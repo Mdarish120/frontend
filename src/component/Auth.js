@@ -180,7 +180,7 @@ const googleFail=(e)=>{
                   <Avatar  >
                    <LockOutlinedIcon  />
                </Avatar>
-               <Typography variant="h6" className={classes.text}>{changeState ? "Login" :"SignUp" }</Typography>
+               <Typography variant="h6" className={classes.text}>{changeState ? "Login" :"signUp" }</Typography>
                   </Stack>
                
               
